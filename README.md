@@ -6,3 +6,9 @@ General structure:
 - JEE application, based on Spring
 - Maven build
 - PostgreSQL database 
+
+More documentation:
+
+[Database](md/dbsetup.md)
+
+[Maven](md/maven.md)
