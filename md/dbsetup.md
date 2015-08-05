@@ -28,7 +28,7 @@ I got some good advice on connecting to a Homebrew-installed Postgres database f
 - chown it to myself
 - In postgresql.conf (/usr/local/var/postgres), set unix_socket_directory to that directory.
 - Ensure path includes pgsql (as above).
-- Execute pg_sql start.
+- Execute pg_sql start (see above for full command).
 
 ### Running setup scripts
 
