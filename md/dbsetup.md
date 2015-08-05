@@ -40,3 +40,15 @@ I got some good advice on connecting to a Homebrew-installed Postgres database f
 
 - To enable random UUID generation: CREATE EXTENSION pgcrypto;
 
+### Tools
+
+- Download and install [PG Admin](http://www.pgadmin.org/download/).
+- Connection parameters:
+  - Name: local
+  - Host: localhost
+  - Port: 5432 (default)
+  - Service: (blank)
+  - Maintenance DB: postgres
+  - Username: (your login)
+  - Password: (blank)
+
